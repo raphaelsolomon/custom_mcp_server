@@ -14,4 +14,4 @@ RUN yarn build
 
 EXPOSE 4000
 
-CMD ["yarn", "start:http"]
+CMD ["yarn", "start"]
