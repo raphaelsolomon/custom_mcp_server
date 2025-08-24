@@ -30,8 +30,8 @@ async function testMCPServer() {
     const result = await client.callTool({
       name: "login_user",
       arguments: {
-        username: "cuzoechi@wazobia.tech",
-        password: "Available1@",
+        username: "*********@*****.com",
+        password: "*********",
       },
     });
 
